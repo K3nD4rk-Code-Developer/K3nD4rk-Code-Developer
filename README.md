@@ -6,8 +6,8 @@ I am a dedicated and results-driven developer with a strong background in **soft
 
 ## Key Achievements
 
-- **FBLA National Leadership Conference Finalist** — Recognized nationally for excellence in business and technology innovation.  
-- **Lockheed Martin CodeQuest Winner** — Top placement in a prestigious programming competition emphasizing algorithmic efficiency and teamwork.  
+- **FBLA National Leadership Conference Finalist** — Recognized nationally for excellence in computer science.  
+- **Lockheed Martin CodeQuest Winner** — Placed in a prestigious programming competition emphasizing algorithmic efficiency and teamwork.  
 - **Professional in Game Assessment and Code Architecture** — Experienced in analyzing and designing scalable code structures and optimizing system performance.
 
 ---
