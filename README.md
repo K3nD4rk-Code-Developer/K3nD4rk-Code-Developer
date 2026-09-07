@@ -75,14 +75,13 @@ I care about code that's still readable at 3am, six months later, when something
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=K3nD4rk-Code-Developer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=22D3EE&include_all_commits=true&rank_icon=github" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=K3nD4rk-Code-Developer&hide_border=true&background=0D1117&stroke=161B22&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" />
+<img height="180" src="https://streak-stats.demolab.com/?user=K3nD4rk-Code-Developer&hide_border=true&background=0D1117&stroke=161B22&ring=A855F7&fire=22D3EE&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" alt="streak" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K3nD4rk-Code-Developer&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&langs_count=8" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=K3nD4rk-Code-Developer&theme=github_dark" alt="stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K3nD4rk-Code-Developer&theme=github_dark" alt="most used languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=K3nD4rk-Code-Developer&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=K3nD4rk-Code-Developer&bg_color=0D1117&color=C9D1D9&line=A855F7&point=22D3EE&area=true&area_color=7C3AED&hide_border=true&custom_title=contribution%20graph" width="98%" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K3nD4rk-Code-Developer&theme=github_dark" alt="languages by repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=K3nD4rk-Code-Developer&theme=github_dark&utcOffset=-5" alt="when I actually commit" />
 
 <img src="https://raw.githubusercontent.com/K3nD4rk-Code-Developer/K3nD4rk-Code-Developer/output/snake.svg" alt="snake eating my contributions" width="98%" />
 
