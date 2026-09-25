@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 260" width="405" height="260" role="img" aria-labelledby="t d">
+  <title id="t">htop languages</title>
+  <desc id="d">A terminal showing languages sorted by commits: Lua, Python, TypeScript, JavaScript, C#.</desc>
+  <style>
+    .m { font-family: 'JetBrains Mono','DejaVu Sans Mono','Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace; font-size: 12px; }
+    .val { fill: #d8d3d2; } .dim { fill: #7d7374; } .red { fill: #b0303a; }
+    .bar { transform-box: fill-box; transform-origin: 0% 50%; animation: fill 8s cubic-bezier(.2,.8,.2,1) infinite both; }
+    @keyframes fill { 0%,4% { transform: scaleX(0); } 30%,88% { transform: scaleX(1); } 96%,100% { transform: scaleX(0); } }
+    @media (prefers-reduced-motion: reduce) { .bar { animation: none; transform: none; } }
+  </style>
+  <rect x="0.5" y="0.5" width="404" height="259" rx="10" fill="#0c0a0a" stroke="#2a2020"/>
+  <path d="M0.5 30 V10.5 a10 10 0 0 1 10 -10 H394.5 a10 10 0 0 1 10 10 V30 Z" fill="#171213"/>
+  <line x1="0" y1="30.5" x2="405" y2="30.5" stroke="#2a2020"/>
+  <circle cx="18" cy="15.5" r="4.5" fill="#a3272f"/><circle cx="34" cy="15.5" r="4.5" fill="#4a4142"/><circle cx="50" cy="15.5" r="4.5" fill="#4a4142"/>
+  <text x="202" y="19" text-anchor="middle" class="m dim">htop: languages</text>
+
+  <text x="16" y="54" class="m"><tspan class="red">$</tspan><tspan class="val"> htop --sort commits</tspan></text>
+  <rect x="12" y="66" width="381" height="18" fill="#7a1f28"/>
+  <text x="20" y="79" class="m val">LANGUAGE</text>
+  <text x="120" y="79" class="m val">COMMITS</text>
+
+  <g class="m val">
+    <text x="20" y="112">Lua</text>
+    <text x="20" y="140">Python</text>
+    <text x="20" y="168">TypeScript</text>
+    <text x="20" y="196">JavaScript</text>
+    <text x="20" y="224">C#</text>
+  </g>
+  <g fill="#1b1617">
+    <rect x="120" y="102" width="260" height="10"/><rect x="120" y="130" width="260" height="10"/><rect x="120" y="158" width="260" height="10"/><rect x="120" y="186" width="260" height="10"/><rect x="120" y="214" width="260" height="10"/>
+  </g>
+  <rect class="bar" style="animation-delay:0s"   x="120" y="102" width="260" height="10" fill="#c9414d"/>
+  <rect class="bar" style="animation-delay:.15s" x="120" y="130" width="160" height="10" fill="#a3272f"/>
+  <rect class="bar" style="animation-delay:.3s"  x="120" y="158" width="118" height="10" fill="#8c2530"/>
+  <rect class="bar" style="animation-delay:.45s" x="120" y="186" width="48"  height="10" fill="#5c5354"/>
+  <rect class="bar" style="animation-delay:.6s"  x="120" y="214" width="30"  height="10" fill="#4a4142"/>
+
+  <text x="16" y="248" class="m dim"># 5 languages, sorted by commits</text>
+</svg>

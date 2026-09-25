@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 260" width="405" height="260" role="img" aria-labelledby="t d">
+  <title id="t">contact and now</title>
+  <desc id="d">A terminal showing contact details, Discord kennum_ and github.com/K3nD4rk-Code-Developer, and what K3nD4rk is currently doing: building game systems and tooling, studying a foreign language, playing an instrument, teaching tech to beginners.</desc>
+  <style>
+    .m { font-family: 'JetBrains Mono','DejaVu Sans Mono','Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace; font-size: 12px; }
+    .val { fill: #d8d3d2; } .dim { fill: #7d7374; } .red { fill: #b0303a; } .usr { fill: #b0303a; font-weight: 700; }
+    .v { opacity: 0; }
+    .v13 { animation: v13 12s infinite both; } .v16 { animation: v16 12s infinite both; }
+    .v40 { animation: v40 12s infinite both; } .v43 { animation: v43 12s infinite both; }
+    .v46 { animation: v46 12s infinite both; } .v49 { animation: v49 12s infinite both; }
+    .v56 { animation: v56 12s infinite both; }
+    @keyframes v13 { 0%,13% { opacity: 0; } 14%,95% { opacity: 1; } 97%,100% { opacity: 0; } }
+    @keyframes v16 { 0%,16% { opacity: 0; } 17%,95% { opacity: 1; } 97%,100% { opacity: 0; } }
+    @keyframes v40 { 0%,40% { opacity: 0; } 41%,95% { opacity: 1; } 97%,100% { opacity: 0; } }
+    @keyframes v43 { 0%,43% { opacity: 0; } 44%,95% { opacity: 1; } 97%,100% { opacity: 0; } }
+    @keyframes v46 { 0%,46% { opacity: 0; } 47%,95% { opacity: 1; } 97%,100% { opacity: 0; } }
+    @keyframes v49 { 0%,49% { opacity: 0; } 50%,95% { opacity: 1; } 97%,100% { opacity: 0; } }
+    @keyframes v56 { 0%,56% { opacity: 0; } 57%,95% { opacity: 1; } 97%,100% { opacity: 0; } }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .v { animation: none; opacity: 1; } .cursor { animation: none; } }
+  </style>
+  <defs>
+    <clipPath id="c1"><rect x="124" y="40" height="20" width="0"><animate attributeName="width" values="0;0;108;108;0" keyTimes="0;0.03;0.12;0.96;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+    <clipPath id="c2"><rect x="124" y="122" height="20" width="0"><animate attributeName="width" values="0;0;0;80;80;0" keyTimes="0;0.30;0.31;0.38;0.96;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="404" height="259" rx="10" fill="#0c0a0a" stroke="#2a2020"/>
+  <path d="M0.5 30 V10.5 a10 10 0 0 1 10 -10 H394.5 a10 10 0 0 1 10 10 V30 Z" fill="#171213"/>
+  <line x1="0" y1="30.5" x2="405" y2="30.5" stroke="#2a2020"/>
+  <circle cx="18" cy="15.5" r="4.5" fill="#a3272f"/><circle cx="34" cy="15.5" r="4.5" fill="#4a4142"/><circle cx="50" cy="15.5" r="4.5" fill="#4a4142"/>
+  <text x="202" y="19" text-anchor="middle" class="m dim">k3nd4rk@dev: ~</text>
+
+  <g class="m">
+    <text x="16" y="54"><tspan class="usr">k3nd4rk@dev</tspan><tspan class="dim">:~$</tspan></text>
+    <text x="124" y="54" class="val" clip-path="url(#c1)">cat contact.txt</text>
+
+    <text class="v v13" x="16" y="78"><tspan class="red">discord</tspan><tspan x="90" class="val">kennum_</tspan></text>
+    <text class="v v16" x="16" y="98"><tspan class="red">github</tspan><tspan x="90" class="val">github.com/K3nD4rk-Code-Developer</tspan></text>
+
+    <text x="16" y="136"><tspan class="usr">k3nd4rk@dev</tspan><tspan class="dim">:~$</tspan></text>
+    <text x="124" y="136" class="val" clip-path="url(#c2)">cat now.txt</text>
+
+    <text class="v v40" x="16" y="160"><tspan class="dim">›</tspan><tspan x="30" class="val">building game systems, tooling</tspan></text>
+    <text class="v v43" x="16" y="180"><tspan class="dim">›</tspan><tspan x="30" class="val">studying a foreign language</tspan></text>
+    <text class="v v46" x="16" y="200"><tspan class="dim">›</tspan><tspan x="30" class="val">practicing an instrument</tspan></text>
+    <text class="v v49" x="16" y="220"><tspan class="dim">›</tspan><tspan x="30" class="val">teaching tech to beginners</tspan></text>
+
+    <g class="v v56">
+      <text x="16" y="246"><tspan class="usr">k3nd4rk@dev</tspan><tspan class="dim">:~$</tspan></text>
+      <rect class="cursor" x="124" y="235" width="7" height="13" fill="#b0303a"/>
+    </g>
+  </g>
+</svg>
