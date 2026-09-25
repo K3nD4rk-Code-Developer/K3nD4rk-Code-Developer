@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 260" width="405" height="260" role="img" aria-labelledby="t d">
   <title id="t">contact and now</title>
-  <desc id="d">A terminal showing contact details, Discord kennum_ and github.com/K3nD4rk-Code-Developer, and what K3nD4rk is currently doing: building game systems and tooling, studying a foreign language, playing an instrument, teaching tech to beginners.</desc>
+  <desc id="d">A terminal showing contact details, Discord kennum_ and github.com/kennumi, and what kennumi is currently doing: building game systems and tooling, studying a foreign language, playing an instrument, teaching tech to beginners.</desc>
   <style>
     .m { font-family: 'JetBrains Mono','DejaVu Sans Mono','Cascadia Mono',Menlo,Consolas,'Liberation Mono',monospace; font-size: 12px; }
     .val { fill: #d8d3d2; } .dim { fill: #7d7374; } .red { fill: #b0303a; } .usr { fill: #b0303a; font-weight: 700; }
@@ -28,16 +28,16 @@
   <path d="M0.5 30 V10.5 a10 10 0 0 1 10 -10 H394.5 a10 10 0 0 1 10 10 V30 Z" fill="#171213"/>
   <line x1="0" y1="30.5" x2="405" y2="30.5" stroke="#2a2020"/>
   <circle cx="18" cy="15.5" r="4.5" fill="#a3272f"/><circle cx="34" cy="15.5" r="4.5" fill="#4a4142"/><circle cx="50" cy="15.5" r="4.5" fill="#4a4142"/>
-  <text x="202" y="19" text-anchor="middle" class="m dim">k3nd4rk@dev: ~</text>
+  <text x="202" y="19" text-anchor="middle" class="m dim">kennumi@dev: ~</text>
 
   <g class="m">
-    <text x="16" y="54"><tspan class="usr">k3nd4rk@dev</tspan><tspan class="dim">:~$</tspan></text>
+    <text x="16" y="54"><tspan class="usr">kennumi@dev</tspan><tspan class="dim">:~$</tspan></text>
     <text x="124" y="54" class="val" clip-path="url(#c1)">cat contact.txt</text>
 
     <text class="v v13" x="16" y="78"><tspan class="red">discord</tspan><tspan x="90" class="val">kennum_</tspan></text>
-    <text class="v v16" x="16" y="98"><tspan class="red">github</tspan><tspan x="90" class="val">github.com/K3nD4rk-Code-Developer</tspan></text>
+    <text class="v v16" x="16" y="98"><tspan class="red">github</tspan><tspan x="90" class="val">github.com/kennumi</tspan></text>
 
-    <text x="16" y="136"><tspan class="usr">k3nd4rk@dev</tspan><tspan class="dim">:~$</tspan></text>
+    <text x="16" y="136"><tspan class="usr">kennumi@dev</tspan><tspan class="dim">:~$</tspan></text>
     <text x="124" y="136" class="val" clip-path="url(#c2)">cat now.txt</text>
 
     <text class="v v40" x="16" y="160"><tspan class="dim">›</tspan><tspan x="30" class="val">building game systems, tooling</tspan></text>
@@ -46,7 +46,7 @@
     <text class="v v49" x="16" y="220"><tspan class="dim">›</tspan><tspan x="30" class="val">teaching tech to beginners</tspan></text>
 
     <g class="v v56">
-      <text x="16" y="246"><tspan class="usr">k3nd4rk@dev</tspan><tspan class="dim">:~$</tspan></text>
+      <text x="16" y="246"><tspan class="usr">kennumi@dev</tspan><tspan class="dim">:~$</tspan></text>
       <rect class="cursor" x="124" y="235" width="7" height="13" fill="#b0303a"/>
     </g>
   </g>
